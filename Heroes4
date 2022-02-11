@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.BlackWidow.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.HumanTorch.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.Psylocke.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.ScarletWitchVariant.Lock:destroy()

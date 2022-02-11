@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.ScarletWitch.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.LaurenStrucker.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.EmmaFrost.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Selection.ScrollBackground.ScrollingFrame.DarkPhoenix.Lock:destroy()

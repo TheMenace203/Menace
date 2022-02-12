@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ScarletWitchZombieVariant.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.SylvieX.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.Bloom.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.DarkBloom.Lock:destroy()

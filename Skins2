@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.SquidManager.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.Katara.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.Player067.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ScarletWitchZombie.Lock:destroy()

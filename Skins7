@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.LokiXmas.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ScarletWitchXmas.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.WandaVision.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.WandaVisionWardrobe.Lock:destroy()

@@ -1,0 +1,5 @@
+
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ScarletUltron.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ZatannaJustice.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.InvisibleWomanXmas.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.SupergirlXmas.Lock:destroy()

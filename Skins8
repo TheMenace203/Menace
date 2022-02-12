@@ -1,0 +1,7 @@
+
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.WandaVisionWardrobeVariant.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.InvisibleWomanViolet.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.PolarisTheGifted.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.StormBride.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.KingBlackPanther.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.EmmaFrostIceQueen.Lock:destroy()

@@ -1,0 +1,4 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.StormXSkin.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.PowerGirl.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.MagikXMen.Lock:destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Menu.SelectionUI.Skins.ScarletWitchVariantUltron.Lock:destroy()

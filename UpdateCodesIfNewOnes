@@ -1,5 +1,5 @@
 local args = {
-    [1] = "4KLIKES"
+    [1] = "6KCOINS"
 }
 
 game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))

@@ -2,7 +2,7 @@
     
 if game.PlaceId == 6184602709 then
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("NTM | H2O Moong Magic GUI", "GrapeTheme")
+local Window = Library.CreateLib("NTM | H2O Moon Magic GUI", "GrapeTheme")
 
 
 local Keybindsz = Window:NewTab("Combat")

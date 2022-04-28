@@ -3,13 +3,7 @@
 
 
 local args = {
-    [1] = "HOMEWORLD"
-}
-
-game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))
-
-local args = {
-    [1] = "HEBURNEDTOPH"
+    [1] = "1MHEROVISITS"
 }
 
 game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))

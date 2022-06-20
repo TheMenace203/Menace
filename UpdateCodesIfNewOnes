@@ -13,3 +13,9 @@ local args = {
 }
 
 game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "JUNETEENTH"
+}
+
+game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))

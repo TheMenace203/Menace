@@ -1,15 +1,7 @@
 
-
 local args = {
     [1] = "ClaimCode",
-    [2] = "UPDATEV2"
-}
-
-game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))
-
-local args = {
-    [1] = "ClaimCode",
-    [2] = "JUNETEENTH"
+    [2] = "HAPPY20K"
 }
 
 game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))

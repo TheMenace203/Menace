@@ -1,7 +1,28 @@
 
 local args = {
     [1] = "ClaimCode",
-    [2] = "HAPPY20K"
+    [2] = "10MVISITS"
+}
+
+game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "ClaimCode",
+    [2] = "MOMUPDATE"
+}
+
+game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "ClaimCode",
+    [2] = "40KMEMBERS"
+}
+
+game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "ClaimCode",
+    [2] = "ANDERSBIRTHDAY"
 }
 
 game:GetService("ReplicatedStorage").Modules.ClientMessenger.RemoteFunction:InvokeServer(unpack(args))
